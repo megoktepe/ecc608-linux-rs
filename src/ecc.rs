@@ -86,8 +86,7 @@ impl EccConfig {
                 sign: 62_000,
                 ///sign: 65_180,
                 ecdh: 28_000,
-                ///ecdh: 12_795,
-            },
+             },
         }
     }
 
